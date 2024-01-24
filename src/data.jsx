@@ -20,7 +20,7 @@ export const projects = [
       subtitle: "React hooks",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-3.gif",
+      image: "taskCaptura.png",
       link: "https://event-q6wisz9we-aldovelacasas.vercel.app",
     },
     {
