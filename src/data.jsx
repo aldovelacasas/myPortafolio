@@ -13,7 +13,7 @@ export const projects = [
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
       image: "taskCaptura.png",
-       link: "https://client-l365zv72p-aldovelacasas.vercel.app/" //"https://client-l365zv72p-aldovelacasas.vercel.app",//
+       link: "https://vercel.live/link/client-2xkb85e7r-aldovelacasas.vercel.app?via=deployment-domains-list-commit" //"https://client-l365zv72p-aldovelacasas.vercel.app",//
     },
     {
       title: "EventMan",
@@ -21,7 +21,7 @@ export const projects = [
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
       image: "event.png",
-      link: "https://event-q6wisz9we-aldovelacasas.vercel.app",
+      link: "https://event-man-one.vercel.app/",
     },
     {
       title: "Epic Todo App",
