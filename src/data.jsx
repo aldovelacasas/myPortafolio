@@ -13,7 +13,7 @@ export const projects = [
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
       image: "taskCaptura.png",
-       link: "https://vercel.live/link/client-2xkb85e7r-aldovelacasas.vercel.app?via=deployment-domains-list-commit" //"https://client-l365zv72p-aldovelacasas.vercel.app",//
+       link: "https://client-gamma-wheat.vercel.app/" //"https://client-l365zv72p-aldovelacasas.vercel.app",//
     },
     {
       title: "EventMan",
