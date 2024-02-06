@@ -13,7 +13,7 @@ export const projects = [
       description:
         "Poyecto con React, con un front, back y una base de datos en MYSQL, la funcion es crear eventos en timepo real para almacenar,borrar,editar y activar. ",
       image: "taskCaptura.png",
-       link: "https://client-b7ububosr-aldovelacasas.vercel.app/" //"https://client-l365zv72p-aldovelacasas.vercel.app",//
+       link: "https://client-gamma-wheat.vercel.app/" //"https://client-l365zv72p-aldovelacasas.vercel.app",//
     },
     {
       title: "EventMan",
@@ -29,7 +29,7 @@ export const projects = [
       description:
         "Proyecto creado con react/vite, frontend, backend, base de datos, guardando pokemones desde una base de datos y una API externa.",
       image: "pokemon.png",
-      link: "https://pokemon-deploy-ultimo-1k68bvoz9-aldovelacasas.vercel.app/",
+      link: "https://pokemon-deploy-ultimo.vercel.app/",
     },
   ];
 
