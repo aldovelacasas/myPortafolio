@@ -13,7 +13,7 @@ export const projects = [
       description:
         "Poyecto con React, con un front, back y una base de datos en MYSQL, la funcion es crear eventos en timepo real para almacenar,borrar,editar y activar. ",
       image: "taskCaptura.png",
-       link: "https://client-fwucpba87-aldovelacasas.vercel.app/" //"https://client-l365zv72p-aldovelacasas.vercel.app",//
+       link: "https://client-b7ububosr-aldovelacasas.vercel.app/" //"https://client-l365zv72p-aldovelacasas.vercel.app",//
     },
     {
       title: "EventMan",
