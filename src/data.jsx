@@ -29,7 +29,7 @@ export const projects = [
       description:
         "Proyecto creado con react/vite, frontend, backend, base de datos, guardando pokemones desde una base de datos y una API externa.",
       image: "pokemon.png",
-      link: "https://client-hfea6xbpc-aldovelacasas.vercel.app/",
+      link: "https://pokemon-deploy-ultimo-1k68bvoz9-aldovelacasas.vercel.app/",
     },
   ];
 
