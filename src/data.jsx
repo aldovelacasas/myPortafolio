@@ -11,7 +11,7 @@ export const projects = [
       title: "TAKS",
       subtitle: "MERN",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+        "Poyecto con React, con un front, back y una base de datos en MYSQL, la funcion es crear eventos en timepo real para almacenar,borrar,editar y activar. ",
       image: "taskCaptura.png",
        link: "https://client-gamma-wheat.vercel.app/" //"https://client-l365zv72p-aldovelacasas.vercel.app",//
     },
@@ -19,17 +19,17 @@ export const projects = [
       title: "EventMan",
       subtitle: "React hooks",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+        "Proyecto creado principalmente para tablas graficas que tienen reaccion en timepo real, manejado con hooks y un local storage.",
       image: "event.png",
       link: "https://event-man-one.vercel.app/",
     },
     {
-      title: "Epic Todo App",
-      subtitle: "React Hooks",
+      title: "Pokemon",
+      subtitle: "React/postgress",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-4.gif",
-      link: "https://pythonbootcamp.com",
+        "Proyecto creado con react/vite, frontend, backend, base de datos, guardando pokemones desde una base de datos y una API externa.",
+      image: "pokemon.png",
+      link: "https://client-gamma-wheat.vercel.app/",
     },
   ];
 

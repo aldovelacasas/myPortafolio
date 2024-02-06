@@ -18,8 +18,8 @@ export default function App() {
       {/* Contenido de la aplicación */}
       <Navbar />
       <About />
-      <Projects />
       <Skills />
+      <Projects />
       <Testimonials />
       <Contact />
     </main>
