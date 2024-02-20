@@ -65,7 +65,8 @@ export const projects = [
     "Git",
     "Tailwind",
     "RESTful APIs",
-    "Next.js"
+    "Next.js",
+    "Figma"
     // Agrega más habilidades según sea necesario
   ];
   
